@@ -45,7 +45,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "echo 'chaparro.me' > ./build/CNAME && gh-pages -d build"
+    "deploy": "echo 'chaparro.pt' > ./build/CNAME && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
