@@ -2,7 +2,7 @@
 
 Welcome to the README of my website! :D
 
-You can check it out here: [chaparro.me](http://chaparro.me) .
+You can check it out here: [chaparro.pt](http://chaparro.pt).
 
 I've always seen beautiful websites scattered across the internet and one of my dreams was to have my own.  
 
